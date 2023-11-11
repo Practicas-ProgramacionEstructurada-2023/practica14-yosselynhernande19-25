@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Programación de Computadoras\\Práctica 14\\practica14-yosselynhernande19-25\\practica14-yosselynhernande19-25.csproj": {}
+  },
+  "projects": {
+    "E:\\Programación de Computadoras\\Práctica 14\\practica14-yosselynhernande19-25\\practica14-yosselynhernande19-25.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programación de Computadoras\\Práctica 14\\practica14-yosselynhernande19-25\\practica14-yosselynhernande19-25.csproj",
+        "projectName": "practica14-yosselynhernande19-25",
+        "projectPath": "E:\\Programación de Computadoras\\Práctica 14\\practica14-yosselynhernande19-25\\practica14-yosselynhernande19-25.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "E:\\Programación de Computadoras\\Práctica 14\\practica14-yosselynhernande19-25\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
